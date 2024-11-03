@@ -1,0 +1,21 @@
+# Ignore compiled script files
+*.vbs~
+
+# Ignore temporary files created by the editor
+*~.vbs
+*.tmp
+
+# Ignore log files
+*.log
+
+# Ignore configuration files
+*.config
+
+# Ignore folders for build or output
+/bin/
+/obj/
+/output/
+
+# Ignore system files
+Thumbs.db
+Desktop.ini
